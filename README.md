@@ -1,3 +1,12 @@
+# as-regex
+
+Ansible Messenger — регулярные выражения Boost.Regex.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [boostorg/regex](https://github.com/boostorg/regex), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 Boost Regex Library
 ============================
 
